@@ -1,9 +1,7 @@
 """
 ***********************************************************************************
- 
-                           Trabaho 2 - Sistemas Operacionais
+                            Trabaho 2 - Sistemas Operacionais
             Um programa crie um processo filho. Utilizando a função fork()
-Nomes: Erica Rodrigues, Gabriel, Túlio Moura, João V. O. Ferreira, Raul V. da Silva
  
 ***********************************************************************************
 """
