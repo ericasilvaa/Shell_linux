@@ -1,10 +1,7 @@
 """
 ***********************************************************************************
- 
-                           Trabaho 2 - Sistemas Operacionais
             Um programa que imprima o PID e PPID do processo em execução
-Nomes: Erica Rodrigues, Gabriel, Túlio Moura, João V. O. Ferreira, Raul V. da Silva
- 
+
 ***********************************************************************************
 """
 
@@ -20,4 +17,5 @@ pid = os.getpid()
 #Imprimir o ID processo atual
 print("O PPID (pai do processo) atual é ", ppid)
 print ("O PID do processo atual é", pid)
+
  
