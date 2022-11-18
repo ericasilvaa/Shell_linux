@@ -1,4 +1,3 @@
-# Shell_linux
-# Atividade em C++
-Mini curso realizada na disciplina de Sistemas Operaciona 
+# Shell_li nux
+Mini curso sobre o  shell do linuz realizada na disciplina de Sistemas Operacional
 No periodo de 2021/2 da UFVJM 
